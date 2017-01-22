@@ -1,0 +1,19 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "For [Free Code Camp](http://freecodecamp.com) - [API Basejump: Image Search Abstraction Layer](https://www.freecodecamp.com/challenges/image-search-abstraction-layer)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.1",
+    "pug": "^2.0.0-beta6"
+  },
+  "engines": {
+    "node": "6.9.1"
+  }
+}
