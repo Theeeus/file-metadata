@@ -1,7 +1,7 @@
 # API Basejump: File Metadata Microservice
 
 
-For [Free Code Camp](http://freecodecamp.com) - [API Basejump: File Metadata Microservice](https://www.freecodecamp.com/challenges/file-metadata-microservice)
+For [Free Code Camp](http://freecodecamp.com) - API Basejump: File Metadata Microservice
 
 
 ### User Stories
@@ -18,7 +18,3 @@ For [Free Code Camp](http://freecodecamp.com) - [API Basejump: File Metadata Mic
 	"size":"12200 bytes"
 }
 ```
-
-
-### Live Site
-[https://hidden-savannah-30568.herokuapp.com](https://hidden-savannah-30568.herokuapp.com)
